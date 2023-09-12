@@ -37,4 +37,4 @@ Used Quick DBD to sketch and ERD.
 
 Used the exported schema to create the crowdfunding_db and tables, imported the four CSVs into their respective tables and queried each with a SELECT * statement to verify they imported correctly and could be queried.
 
-
+See the Database_verification folder.
